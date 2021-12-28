@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Revenyster/Revenyster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Revenyster/Revenyster** is an Asshole repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
